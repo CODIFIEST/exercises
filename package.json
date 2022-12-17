@@ -1,0 +1,22 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "Let's combine everything we know.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CODIFIEST/exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CODIFIEST/exercises/issues"
+  },
+  "homepage": "https://github.com/CODIFIEST/exercises#readme",
+  "dependencies": {
+    "prompt-promise": "^1.0.3"
+  }
+}
