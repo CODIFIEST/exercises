@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/CODIFIEST/exercises#readme",
   "dependencies": {
+    "ethers": "^5.7.2",
     "prompt-promise": "^1.0.3"
   }
 }
